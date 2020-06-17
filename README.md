@@ -1,2 +1,2 @@
 # ig_clone
-instagram inspired database
+Instagram inspired database with problem and solution examples.
